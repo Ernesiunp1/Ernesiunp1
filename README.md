@@ -3,11 +3,15 @@ Soy Ernesto Vivas, desarrollador backend enfocado en construir sistemas robustos
 
 Además, tengo experiencia en frontend con Angular e Ionic, especialmente en el desarrollo de interfaces móviles y herramientas de gestión. Unos de mis proyectos personales más significativos son:
 
-API Administración Pastoral: Plataforma de administración pastoral. 
+```
+bash
++ API Administración Pastoral: Plataforma de administración pastoral. 
 
-App Domicilios: Es una app de Gestión y administración de sistema de paquetes de utima milla 
++ App Domicilios: Es una app de Gestión y administración de sistema de paquetes de última milla. 
 
-PWA SuperTurista: App movil tipo Airbnb
++ PWA SuperTurista: App movil tipo Airbnb.
+```
+
 
 He trabajado en entornos cloud (AWS EC2), con contenedores que interactúan entre sí para mantener flujos de datos limpios, escalables y seguros. También he construido dashboards personalizados utilizando Streamlit y Grafana, conectados a bases de datos MySQL para reportes visuales en tiempo real.
 
