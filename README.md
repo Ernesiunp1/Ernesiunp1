@@ -1,26 +1,30 @@
-👋 Hello there! I'm Ernesto Vivas, a passionate technologist and software developer with experience spanning multiple facets of the industry. My journey combines a strong technical focus with interpersonal skills, allowing me to thrive in both collaborative environments and independent projects.
+👨‍💻 Sobre mí
+Soy Ernesto Vivas, desarrollador backend enfocado en construir sistemas robustos, mantenibles y orientados a microservicios. Trabajo principalmente con Python, FastAPI y Django y he desarrollado soluciones que integran Kafka, Selenium, ThreadPoolExecutor, y Docker, diseñando arquitecturas distribuidas para tareas como scraping masivo y procesamiento concurrente de datos.
 
-💼 Currently, I'm a proud member of the talented Anfler Solutions team, contributing to the development of innovative solutions. My dedication and knowledge in the tech realm have enabled me to work with various programming languages, frameworks, and technologies related to web and mobile development.
+Además, tengo experiencia en frontend con Angular e Ionic, especialmente en el desarrollo de interfaces móviles y herramientas de gestión. Unos de mis proyectos personales más significativos son:
 
-🌱 In addition to my full-time commitment, I also nurture my creativity as an independent developer. This experience keeps me in tune with the latest trends and allows me to experiment with cutting-edge technologies in challenging and exciting projects.
+API Administración Pastoral: Plataforma de administración pastoral. 
+App Domicilios: Es una app de Gestión y administración de sistema de paquetes de utima milla 
+PWA SuperTurista: App movil tipo Airbnb
 
-🚀 My problem-solving mindset, communication skills, and willingness to continuously learn empower me to tackle complex challenges and collaborate effectively with cross-functional teams.
+He trabajado en entornos cloud (AWS EC2), con contenedores que interactúan entre sí para mantener flujos de datos limpios, escalables y seguros. También he construido dashboards personalizados utilizando Streamlit y Grafana, conectados a bases de datos MySQL para reportes visuales en tiempo real.
 
-💡 I'm excited to keep growing in this ever-evolving industry, bringing my passion for software development and contributing to projects that positively impact the tech world.
+Me motiva aplicar la tecnología para resolver problemas reales en sectores como la contaduría digital, logística de domicilios, y organizaciones comunitarias.
 
-Connect with me, and let's explore the thrilling realm of technology and innovation together! 🌟
+🧰 Tecnologías clave
+Lenguajes: Python, TypeScript, JavaScript
 
+Frameworks: FastAPI, Django, Angular, Ionic
 
+Mensajería y concurrencia: Kafka, ThreadPoolExecutor
 
-👋 ¡Hola! Soy Ernesto Vivas, un apasionado tecnólogo y desarrollador de software con experiencia en múltiples facetas de la industria. Mi trayectoria combina un sólido enfoque técnico con habilidades interpersonales, lo que me permite prosperar tanto en entornos colaborativos como en proyectos independientes.
+Web scraping: Selenium
 
-💼 Actualmente, formo parte del talentoso equipo de Anfler Solutions, donde contribuyo al desarrollo de soluciones innovadoras. Mi dedicación y conocimiento en el mundo de la tecnología me han permitido trabajar con diversos lenguajes de programación, frameworks y tecnologías relacionadas con el desarrollo web y móvil.
+Bases de datos: MySQL, SQLite
 
-🌱 Además de mi compromiso a tiempo completo, también exploro mi creatividad como desarrollador independiente. Esta experiencia me brinda la oportunidad de estar al tanto de las últimas tendencias y experimentar con nuevas tecnologías en proyectos desafiantes y emocionantes.
+DevOps / Infraestructura: Docker, Docker Compose, AWS EC2
 
-🚀 Mi enfoque en la resolución de problemas, habilidades de comunicación y disposición para aprender continuamente me permiten afrontar desafíos complejos y colaborar eficazmente con equipos multidisciplinarios.
+Visualización: Grafana, Streamlit
 
-💡 Estoy emocionado por seguir creciendo en esta industria en constante evolución, aportando mi pasión por el desarrollo de software y contribuyendo a proyectos que impactan positivamente en el mundo tecnológico.
-
-¡Conéctate conmigo y juntos exploremos el emocionante mundo de la tecnología y la innovación! 🌟
+Control de versiones: Git, GitHub
 
